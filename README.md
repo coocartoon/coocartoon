@@ -29,11 +29,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/coocartoon/coocartoon"><b>Homepage</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/coocartoon/coocartoon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/coocartoon/coocartoon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/coocartoon/coocartoon?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coocartoon/coocartoon?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/coocartoon/a9"><b>Algorithm</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coocartoon/a9?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coocartoon/a9?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coocartoon/a9?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coocartoon/a9?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
